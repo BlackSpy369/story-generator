@@ -1,2 +1,5 @@
 streamlit
 transformers
+peft
+bitsandbytes
+torch
